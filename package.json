@@ -1,0 +1,14 @@
+{
+  "name": "json2excel-i18n",
+  "version": "1.0.1",
+  "description": "用于基于Vue I18n实现国际化时json和excel互转",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zqq",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.1"
+  }
+}
